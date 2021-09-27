@@ -1,1 +1,193 @@
-{"backgrounds":[{"active":true,"display":{"blur":0,"luminosity":-0.1},"id":"3f5c3f7d-1ac6-419e-b2b6-4215807871d6","key":"background/unsplash"}],"widgets":[{"id":"0d1d72d4-305a-4981-b1a2-a8ace91f5218","key":"widget/css","active":true,"display":{"position":"middleCentre"}},{"active":true,"display":{"position":"middleCentre"},"id":"e81f6770-b99f-4bc5-9afa-482534388eb1","key":"widget/css"},{"active":true,"display":{"fontSize":10,"fontWeight":300,"position":"topRight","fontFamily":"Roboto Mono"},"id":"35eba7c8-371a-4c53-8bb2-f28e8b35f8ad","key":"widget/time"},{"active":true,"display":{"fontWeight":300,"position":"topCentre","fontFamily":"Roboto"},"id":"d574c32b-600a-4448-b7be-c571bdb86ae8","key":"widget/weather"},{"active":true,"display":{"fontFamily":"Roboto Mono","position":"middleCentre"},"id":"adebab85-c7b9-4881-921b-24ba484919ab","key":"widget/search"},{"active":true,"display":{"fontFamily":"Roboto","fontWeight":300,"position":"middleCentre","colour":"#ffffff"},"id":"e203855b-e74f-4b53-a973-cf4799efcfd1","key":"widget/links"},{"active":true,"display":{"fontSize":30,"fontWeight":300,"position":"bottomRight","fontFamily":"Roboto Mono"},"id":"2d8ee751-71b0-457e-8fd3-fb736a43936f","key":"widget/todo"}],"data":{"2d8ee751-71b0-457e-8fd3-fb736a43936f":{"items":[{"completed":true,"contents":"C# HW","id":"66d5e4db-0b87-4013-9c18-e337b20aa46e"}],"show":3},"3f5c3f7d-1ac6-419e-b2b6-4215807871d6":{"by":"official","collections":"","featured":false,"search":"","timeout":0},"a83e4f28-7f42-41ca-a3c1-f06839ef8db2":{"input":"<style>\n@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;500;600;700&display=swap');\n</style> "},"d574c32b-600a-4448-b7be-c571bdb86ae8":{"latitude":47.853333,"longitude":18.654167,"name":"Kamenný Most","showDetails":false,"units":"si"},"e203855b-e74f-4b53-a973-cf4799efcfd1":{"columns":2,"linkOpenStyle":false,"links":[{"icon":"facebook","name":"Facebook","url":"https://www.facebook.com/"},{"icon":"mail","name":"Gmail","url":"https://mail.google.com/mail/u/1/#inbox"},{"icon":"youtube","name":"Youtube","url":"https://www.youtube.com/"},{"icon":"book-open","name":"UIS","url":"https://is.paneurouni.com/auth/?lang=sk"},{"icon":"twitch","name":"Twitch","url":"https://www.twitch.tv"},{"icon":"code","name":"4Chan","url":"https://boards.4channel.org/g/catalog"},{"icon":"message-square","name":"Reddit","url":"https://www.reddit.com/"},{"icon":"hexagon","name":"Raspberry","url":"https://www.raspberrypi.org/products/raspberry-pi-pico/"},{"url":"https://ncore.pro/","name":"nCore","icon":"download"},{"url":"https://www.alza.sk","name":"Alza","icon":"shopping-cart"},{"url":"https://www.aliexpress.com/","name":"Aliexpress","icon":"shopping-bag"},{"url":"https://www.heureka.sk/","name":"Heureka","icon":"dollar-sign"}],"visible":true},"e81f6770-b99f-4bc5-9afa-482534388eb1":{"input":".Slot {\nbackground : rgba(0,0,0,0.3);\nborder-radius : 15px;\n}\n.Search input::placeholder{\n//color : red;\nopacity : 0.001;\n}\n.Slot.topCentre{\nbackground : none;\nmargin-top : 10px;\n}\n.Slot.topRight{\nbackground : none;\nmargin-top : 10px;\nmargin-right : 10px;\n}\n.Slot.bottomRight{\nbackground : none;\nbackground::hover : rgba(0,0,0,0.3);\nmargin-right : 10px;\n}"},"adebab85-c7b9-4881-921b-24ba484919ab":{"searchEngine":"duckduckgo","suggestionsQuantity":4},"0d1d72d4-305a-4981-b1a2-a8ace91f5218":{"input":"@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');\n\n@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;300;400;500;700&display=swap');"}},"_persist":{"version":-1,"rehydrated":true}}
+{
+  "backgrounds": [
+    {
+      "active": true,
+      "display": {
+        "blur": 0,
+        "luminosity": -0.1
+      },
+      "id": "3f5c3f7d-1ac6-419e-b2b6-4215807871d6",
+      "key": "background/unsplash"
+    }
+  ],
+  "widgets": [
+    {
+      "id": "0d1d72d4-305a-4981-b1a2-a8ace91f5218",
+      "key": "widget/css",
+      "active": true,
+      "display": {
+        "position": "middleCentre"
+      }
+    },
+    {
+      "active": true,
+      "display": {
+        "position": "middleCentre"
+      },
+      "id": "e81f6770-b99f-4bc5-9afa-482534388eb1",
+      "key": "widget/css"
+    },
+    {
+      "active": true,
+      "display": {
+        "fontSize": 10,
+        "fontWeight": 300,
+        "position": "topRight",
+        "fontFamily": "Roboto Mono"
+      },
+      "id": "35eba7c8-371a-4c53-8bb2-f28e8b35f8ad",
+      "key": "widget/time"
+    },
+    {
+      "active": true,
+      "display": {
+        "fontWeight": 300,
+        "position": "topCentre",
+        "fontFamily": "Roboto"
+      },
+      "id": "d574c32b-600a-4448-b7be-c571bdb86ae8",
+      "key": "widget/weather"
+    },
+    {
+      "active": true,
+      "display": {
+        "fontFamily": "Roboto Mono",
+        "position": "middleCentre"
+      },
+      "id": "adebab85-c7b9-4881-921b-24ba484919ab",
+      "key": "widget/search"
+    },
+    {
+      "active": true,
+      "display": {
+        "fontFamily": "Roboto",
+        "fontWeight": 300,
+        "position": "middleCentre",
+        "colour": "#ffffff"
+      },
+      "id": "e203855b-e74f-4b53-a973-cf4799efcfd1",
+      "key": "widget/links"
+    },
+    {
+      "active": true,
+      "display": {
+        "fontSize": 30,
+        "fontWeight": 300,
+        "position": "bottomRight",
+        "fontFamily": "Roboto Mono"
+      },
+      "id": "2d8ee751-71b0-457e-8fd3-fb736a43936f",
+      "key": "widget/todo"
+    }
+  ],
+  "data": {
+    "2d8ee751-71b0-457e-8fd3-fb736a43936f": {
+      "items": [
+        {
+          "completed": true,
+          "contents": "C# HW",
+          "id": "66d5e4db-0b87-4013-9c18-e337b20aa46e"
+        }
+      ],
+      "show": 3
+    },
+    "3f5c3f7d-1ac6-419e-b2b6-4215807871d6": {
+      "by": "official",
+      "collections": "",
+      "featured": false,
+      "search": "",
+      "timeout": 0
+    },
+    "a83e4f28-7f42-41ca-a3c1-f06839ef8db2": {
+      "input": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;500;600;700&display=swap');\n</style> "
+    },
+    "d574c32b-600a-4448-b7be-c571bdb86ae8": {
+      "latitude": 47.853333,
+      "longitude": 18.654167,
+      "name": "Kamenný Most",
+      "showDetails": false,
+      "units": "si"
+    },
+    "e203855b-e74f-4b53-a973-cf4799efcfd1": {
+      "columns": 2,
+      "linkOpenStyle": false,
+      "links": [
+        {
+          "icon": "facebook",
+          "name": "Facebook",
+          "url": "https://www.facebook.com/"
+        },
+        {
+          "icon": "mail",
+          "name": "Gmail",
+          "url": "https://mail.google.com/mail/u/1/#inbox"
+        },
+        {
+          "icon": "youtube",
+          "name": "Youtube",
+          "url": "https://www.youtube.com/"
+        },
+        {
+          "icon": "book-open",
+          "name": "UIS",
+          "url": "https://is.paneurouni.com/auth/?lang=sk"
+        },
+        {
+          "icon": "twitch",
+          "name": "Twitch",
+          "url": "https://www.twitch.tv"
+        },
+        {
+          "icon": "code",
+          "name": "4Chan",
+          "url": "https://boards.4channel.org/g/catalog"
+        },
+        {
+          "icon": "message-square",
+          "name": "Reddit",
+          "url": "https://www.reddit.com/"
+        },
+        {
+          "icon": "hexagon",
+          "name": "Raspberry",
+          "url": "https://www.raspberrypi.org/products/raspberry-pi-pico/"
+        },
+        {
+          "url": "https://ncore.pro/",
+          "name": "nCore",
+          "icon": "download"
+        },
+        {
+          "url": "https://www.alza.sk",
+          "name": "Alza",
+          "icon": "shopping-cart"
+        },
+        {
+          "url": "https://www.aliexpress.com/",
+          "name": "Aliexpress",
+          "icon": "shopping-bag"
+        },
+        {
+          "url": "https://www.heureka.sk/",
+          "name": "Heureka",
+          "icon": "dollar-sign"
+        }
+      ],
+      "visible": true
+    },
+    "e81f6770-b99f-4bc5-9afa-482534388eb1": {
+      "input": ".Slot {\nbackground : rgba(0,0,0,0.3);\nborder-radius : 15px;\n}\n.Search input::placeholder{\n//color : red;\nopacity : 0.001;\n}\n.Slot.topCentre{\nbackground : none;\nmargin-top : 10px;\n}\n.Slot.topRight{\nbackground : none;\nmargin-top : 10px;\nmargin-right : 10px;\n}\n.Slot.bottomRight{\nbackground : none;\nbackground::hover : rgba(0,0,0,0.3);\nmargin-right : 10px;\n}"
+    },
+    "adebab85-c7b9-4881-921b-24ba484919ab": {
+      "searchEngine": "duckduckgo",
+      "suggestionsQuantity": 4
+    },
+    "0d1d72d4-305a-4981-b1a2-a8ace91f5218": {
+      "input": "@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');\n\n@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;300;400;500;700&display=swap');"
+    }
+  },
+  "_persist": {
+    "version": -1,
+    "rehydrated": true
+  }
+}
